@@ -1,0 +1,4 @@
+.su-active-upload .ant-upload-list {
+  max-height: 150px !important;
+  overflow: auto;
+}

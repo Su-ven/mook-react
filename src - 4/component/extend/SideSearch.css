@@ -1,0 +1,9 @@
+.gx-layout-sider .searchGroup {
+  width: 190px;
+}
+.gx-layout-sider .content-open-false .searchGroup {
+  display: none;
+}
+.gx-side-search-table tbody tr {
+  cursor: pointer;
+}

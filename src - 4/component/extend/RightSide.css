@@ -1,0 +1,8 @@
+.side_card {
+  float: right;
+  width: 95%;
+  margin-bottom: 15px;
+}
+.side_card #txtContactContent {
+  height: 220px;
+}

@@ -1,0 +1,10 @@
+.su-filter-card {
+  width: 98%;
+  margin-bottom: 15px;
+}
+.su-filter-card .ant-card-body {
+  padding: 7px !important;
+}
+.su-filter-card .ant-card-body .ant-form-item {
+  margin-bottom: 2px !important;
+}
